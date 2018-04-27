@@ -2,7 +2,7 @@
 This python code takes whats app text file as input and generates model which predict next word
 
 Generates:
- Keras model
+ Keras model 
  Coreml model
 
 Output:
