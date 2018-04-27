@@ -1,4 +1,4 @@
-# word-prediction-machine-learning
+# WhatsApp Chat Next word prediction
 This python code takes whats app text file as input and generates model which predict next word
 
 Generates:
