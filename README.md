@@ -8,5 +8,5 @@ https://faq.whatsapp.com/en/android/23756533/
 Generates:
 Keras model and Coreml model
 
-Output:
+Sample Output for the test training data: 
  suggestions for ['dude', 'stated'] => ['office', 'not', 'no', 'my']
